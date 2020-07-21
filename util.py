@@ -11,6 +11,6 @@ def remove_prefix(disctext):
 
 def getCompound(id):
     """Gets a compound object from a compound name or id"""
-    slist = cs.search(id)
-    compound = slist[0]
+    slist = cs.search(id) # Returns list of compounds
+    compound = slist[0] # Fetches top item of list as compound object
     return compound
