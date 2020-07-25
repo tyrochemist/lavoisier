@@ -9,8 +9,9 @@ def remove_prefix(disctext):
     if disctext.content.startswith(cprefix):
         return disctext.content[len(cprefix):]
 
+
 def getCompound(id):
     """Gets a compound object from a compound name or id"""
-    slist = cs.search(id) # Returns list of compounds
-    compound = slist[0] # Fetches top item of list as compound object
+    slist = cs.search(id)  # Returns list of compounds
+    compound = slist[0]  # Fetches top item of list as compound object
     return compound
