@@ -1,0 +1,29 @@
+aiohttp==3.6.2
+astroid @ file:///Users/runner/miniforge3/conda-bld/astroid_1591645088120/work
+async-timeout==3.0.1
+attrs==19.3.0
+autopep8 @ file:///home/conda/feedstock_root/build_artifacts/autopep8_1591017828430/work
+brotlipy==0.7.0
+certifi==2020.6.20
+cffi==1.14.0
+chardet==3.0.4
+ChemSpiPy==2.0.0
+cryptography @ file:///Users/runner/miniforge3/conda-bld/cryptography_1595348779745/work
+discord.py==1.3.4
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1593328102638/work
+isort==4.3.21
+lazy-object-proxy==1.4.3
+mccabe==0.6.1
+multidict==4.7.6
+pycodestyle @ file:///home/conda/feedstock_root/build_artifacts/pycodestyle_1589305246696/work
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1593275161868/work
+pylint @ file:///Users/runner/miniforge3/conda-bld/pylint_1592404315620/work
+pyOpenSSL==19.1.0
+PySocks==1.7.1
+requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1592425495151/work
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1590081179328/work
+toml @ file:///home/conda/feedstock_root/build_artifacts/toml_1589469402899/work
+urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1595434816409/work
+websockets==8.1
+wrapt==1.11.2
+yarl==1.4.2
